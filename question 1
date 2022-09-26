@@ -1,3 +1,8 @@
+While Traversing a single-circular linked list, when the traversing element/variable reaches the value of the pointer of the head node then it
+establishes that the traversing element/variable has reached the first element.
+
+
+
 #include <iostream>
 using namespace std;
 // create a data strcutrue for linked list
